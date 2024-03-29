@@ -1,5 +1,8 @@
 <template>
   <div>
+    <a class="github-link" href="https://github.com/Moni1105/noframework-symptomchecker">
+        Please click here to access Github repository link for this implementation
+    </a>
     <div class="container">
       <div class="left-container">
         <h2>Select an Option:</h2>
@@ -475,5 +478,10 @@ td {
 th {
   background-color: #ea4c89;
   font-weight: bold;
+}
+ .github-link {
+    position: absolute;
+    top: 10px;
+    right: 10px;
 }
 </style>
