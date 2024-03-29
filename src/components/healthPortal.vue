@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a class="github-link" href="https://github.com/Moni1105/noframework-symptomchecker">
+    <a class="github-link" href="https://github.com/Moni1105/symptomchecker">
         Please click here to access Github repository link for this implementation
     </a>
     <div class="container">
